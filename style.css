@@ -25,7 +25,17 @@ h1{
     color: #606c38; 
 }
 
-
 h2{
+    color: #606c38; 
+    font-size: 40px;
+}
+
+h3{
     color: #bc6c25;
+    font-size: 25px;
+}
+
+h4{
+    color: #606c38;
+    font-size: 25px;
 }
